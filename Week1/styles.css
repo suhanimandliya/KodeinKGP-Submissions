@@ -1,0 +1,17 @@
+
+body{
+    background-color: rgba(187, 83, 190, 0.658);
+    text-align: center;
+}
+
+button{
+    background-color: rgb(9, 148, 148);
+    color: white;
+    font-weight: bolder;
+    font-family: cursive;
+    border-radius: 100px;
+    border-style: outset;
+    border-width: 3px;
+    border-color:black;
+}
+
